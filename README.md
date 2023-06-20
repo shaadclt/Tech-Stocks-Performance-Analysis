@@ -7,7 +7,7 @@ This is a web application that allows you to analyze the performance of tech sto
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/shaadclt/Tech-Stocks-Performance-Analysis.git
 ```
 2. Install the required dependencies:
 
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 3. Run the application:
 
 ```bash
-streamlit run your_app.py
+streamlit run app.py
 ```
 
 ## Usage
